@@ -4,9 +4,24 @@ name: 🐳 Docker Compose Build Check
 on:
   push:
     branches: [ "**" ]
+    paths:
+      - 'frontend/**'
+      - 'backend/**'
+      - 'docker-compose.yml'
+      - '**/Dockerfile'
+      - 'package.json'
+      - 'requirements.txt'
   pull_request:
     branches: [ "main" ]
+    paths:
+      - 'frontend/**'
+      - 'backend/**'
+      - 'docker-compose.yml'
+      - '**/Dockerfile'
+      - 'package.json'
+      - 'requirements.txt'
 
+      
 jobs:
   build:
     runs-on: ubuntu-latest
