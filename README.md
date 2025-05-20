@@ -1,3 +1,7 @@
+## 📦 Project Status
+
+[![🔖 Latest Release](https://img.shields.io/github/v/release/Kelocker/hackathon-template)](https://github.com/Kelocker/hackathon-template/releases)
+[![🐳 Docker Compose Manual Build](https://github.com/Kelocker/hackathon-template/actions/workflows/docker-composer-manualbuild.yml/badge.svg)](https://github.com/Kelocker/hackathon-template/actions/workflows/docker-composer-manualbuild.yml)
 
 # 📘 Project Setup Instructions
 
