@@ -5,16 +5,21 @@ This project uses **Docker + Docker Compose** to run a full-stack app with a **R
 
 ---
 
-### ✅ Step 1: Clone the Repository
+### ✅ Step 1: Use This Template
 
-```bash
-git clone https://github.com/your-username/my-new-project.git
-cd my-new-project
-```
+1. Click the green **"Use this template"** button at the top of the page
+2. Create your own repository based on this template
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1Rq7Jgv8IT8DtmL-SbLFdIRNwLMuqHIgF" alt="Use this template" width="600"/>
+</p>
+
 
 ---
 
 ### ✅ Step 2: Build and Run the App with Docker
+
+After cloning your repository into your machine, run:
 
 ```bash
 docker compose up --build
