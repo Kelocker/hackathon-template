@@ -1,5 +1,5 @@
 
-name: 🐳 Docker Compose Build Check
+name: 🐳 Docker Compose Auto Build Check
 
 on:
   push:
