@@ -1,3 +1,10 @@
+# 🚫 This workflow is intentionally disabled to prevent automatic runs
+# when someone creates a new repository from this template.
+#
+# 📝 Rename this file to `.yml` to re-enable the workflow.
+#
+# ⚠️ Note: GitHub Actions may incur usage costs if this workflow runs,
+# especially on private repositories without Education benefits.
 
 name: 🐳 Docker Compose Auto Build Check
 
